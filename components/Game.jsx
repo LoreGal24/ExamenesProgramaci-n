@@ -46,7 +46,7 @@ function Game() {
 
   return (
     <div className="game-container">
-      <h1>¡Hola, {playerName}!</h1>
+      <h1>Que onda {playerName}!</h1>
       <div className="number-box">
         {gameOver ? numero : '?'}
       </div>
