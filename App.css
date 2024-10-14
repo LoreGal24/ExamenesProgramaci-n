@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+input, button {
+  display: block;
+  margin: 10px auto;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+}

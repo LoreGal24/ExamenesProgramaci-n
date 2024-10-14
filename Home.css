@@ -1,0 +1,15 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #02aab0; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #02aab0, #00cdac); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #02aab0, #00cdac); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 16px;
+  }
